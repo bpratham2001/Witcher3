@@ -1,0 +1,1 @@
+print("Welcome, Witcher.\n Use 'from witcher_school_of_python import *' to access your abilities.\n")
