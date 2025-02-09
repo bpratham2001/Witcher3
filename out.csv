@@ -1,0 +1,49 @@
+ID,Dependancy,Quest,Territory,Type,Quest Acquisition Description,Level,DLC,Missable,Notes
+1,163.0,A Mysterious Passenger,Skellige,Main,After Nameless,0,Base Game,Y,Only triggers if you complete the Skellige main quests before the Velen main quests
+2,,Gwent: Velen Players,Velen,Secondary,Notice Board: Crow's Perch,0,Base Game,Y,Do this before finishing Family Matters
+12,,Faithful Friend,White Orchard,Secondary,Outside White Orchard tavern,0,Base Game,N,"Available at end of game, during ""Something Ends, Something Begins"""
+18,,Gwent: Playing Thaler,Novigrad,Secondary,"Seven Cats Inn, Thaler",0,Base Game,N,"After finding Thaler during A Deadly Plot, talk to him again immediately to play him there. If not, he will go to Seven Cats Inn"
+28,,Precious Cargo,White Orchard,Secondary,"Southwestern road leading to the Nilfgaardian Garrison. Just south of the swamp, at a campsite.",0,Base Game,N,Keep the medicine = 50 crowns. Other choices = no money
+37,,Worthy of Trust,Skellige,Secondary,Merchants' camp between Kaer Trolde Harbor and Crossroads,0,Base Game,N,Requires that you prior gave the Novigrad merchant a loan to get home. Find him initially by Kaer Trolde docks.
+51,,Funeral Pyres,Velen,Secondary,"Priest of Eternal Fire, along the road leading west from Mulbrydale",3,Base Game,N,"""I don't take bribes"" = 200 crowns. ""Agreed"" = 60 crowns."
+72,,Ghosts of the Past,Velen,Secondary,During The Fall of The House Reardon,6,Base Game,Y,"Missable, depending on your choices in Witcher 2"
+73,,Magic Lamp,Velen,Secondary,During Wandering in the Dark,6,Base Game,Y,Tell Keira you'll help her at end of Wandering in the Dark
+97,,Bitter Harvest,Velen,Secondary,"West of bridge across Pontar. Given if you continue objective from ""Fake Papers,"" and ask what the brother needs.",9,Base Game,N,Protect the scavengers. Fight aggressively to keep ghouls off the NPCs
+119,,Fists of Fury: Champion Of Champions,Skellige,Secondary,Hov on Spikeroog,11,Base Game,N,"Only after completing rest of Fists of Fury - in Velen, Novigrad, Skellige. And complete Master of the Arena on Skellige."
+121,,Scavenger Hunt: Griffin School Gear,Velen,Treasure Hunt,Purchase and read any of the following four maps from Edwin Greloff,11,Base Game,N,Basic. Gear requires level 11.
+125,,A Matter of Life and Death,Novigrad,Secondary,During Count Reuven's Treasure,12,Base Game,Y,Required to romance Triss
+138,,Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 2,Skellige,Treasure Hunt,"Purchase ""Ibrahim Savi's Second Map"" from the armorer at Kaer Trolde Fortress",12,Base Game,N,Enhanced. Gear requires level 25.
+141,,The Truth is in the Stars,Velen,Secondary,"Notice Board: Oxenfurt, or seer in Benek",12,Base Game,N,Same seer that you play during Gwent: Velen Players
+148,,Free Spirit,Skellige,Secondary,Snidhall Isle north of Ard Skellig - small island with two question marks north of main Skellige isle,13,Base Game,N,Also home to the level 40 ArchGriffen!
+158,,Now or Never,Novigrad,Secondary,After A Matter of Life and Death.,14,Base Game,Y,"First complete Gwent: Playing Innkeeps, Nobleman/Soldier Statuette, and Redania's Most Wanted. Equip 1 point in axii delusion."
+171,,Scavenger Hunt: Wolf School Gear,Kaer Morhen,Treasure Hunt,Purchase and read any of the following six “Notes on Parchment by Hieronymus on Elgar the Witcher”,14,Free DLC,N,Basic. Gear requires level 14.
+182,,The Last Wish,Skellige,Secondary,After In Ciri's Footsteps. After Missing Persons and after Nameless. In Freya's gardens.,15,Base Game,N,Required for Yennefer romance.
+187,,Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 1,Skellige,Treasure Hunt,"Purchase ""Ibrahim Savi's First Map"" from the armorer at Kaer Trolde Fortress",16,Base Game,N,"Enhanced. Gear requires level 25. You have to kill the Grossbarts to get the armor diagram. Go to Blandare village and accept quest ""The Sad Tale of the Grossbart Brothers"" first."
+194,,Scavenger Hunt: Cat School Gear,Novigrad,Treasure Hunt,Purchase and read any of the following four maps from Adalbert Kermith,17,Base Game,N,Basic. Gear requires level 17.
+201,,Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 1,Velen,Treasure Hunt,"Purchase ""Edwin Greloff's First Map"" from the Midcopse blacksmith",18,Base Game,N,Enhanced. Gear requires level 18.
+202,,Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 2,Velen,Treasure Hunt,"Purchase ""Edwin Greloff's Second Map"" from the Midcopse blacksmith",18,Base Game,N,Enhanced. Gear requires level 18.
+214,,Scavenger Hunt: Bear School Gear,Skellige,Treasure Hunt,Purchase and read any of the following four maps from Ibrahim Savi,20,Base Game,N,Basic. Gear requires level 20.
+216,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 1,Novigrad,Treasure Hunt,Purchase Hieronymus' Notes from Hattori in Novigrad or Hierarch Square blacksmith,21,Free DLC,N,Enhanced. Gear requires level 21.
+217,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 2,Kaer Morhen,Treasure Hunt,Purchase Hieronymus' Notes from Lindenvale blacksmith in Velen,21,Free DLC,N,Enhanced. Gear requires level 21.
+218,210.0,Brothers In Arms: Nilfgaard,Vizima,Main,"Main Quest 40: After Va Fail, Elaine",22,Base Game,N,None. Quest can be completed but you will never gain any additional support from finishing this quest.
+219,210.0,Brothers In Arms: Novigrad,Novigrad,Main,"Main Quest 41: After Va Fail, Elaine",22,Base Game,N,"Roche & Ves, Zoltan, Dijkstra, Triss"
+220,210.0,Brothers In Arms: Skellige,Skellige,Main,"Main Quest 42: After Va Fail, Elaine",22,Base Game,N,"Crach, Folan, Vigi, Cerys, Ermion, Hjalmar"
+221,210.0,Brothers In Arms: Velen,Velen,Main,"Main Quest 43: After Va Fail, Elaine",22,Base Game,N,"Keira Metz, Letho. (Letho not required for achievement ""Full Crew"")"
+227,,Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 1,Novigrad,Treasure Hunt,"Purchase ""Adalbert Kermith's First Map"" from blacksmith of Blackbough",23,Base Game,N,Enhanced. Gear requires level 23.
+228,,Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 2,Velen,Treasure Hunt,"Purchase ""Adalbert Kermith's Second Map"" from blacksmith of Blackbough",23,Base Game,N,Enhanced. Gear requires level 23.
+229,,The Bastion,Kaer Morhen,Secondary,Old keep west of Kaer Morhen,23,Base Game,N,"Must have completed ""Magic Lamp"""
+235,,Master Armorers,Multiple,Secondary,"Fergus Graem, Dwarf blacksmith in Crow's Perch.",24,Base Game,N,Completing this quest unlocks Fergus as a master armorer.
+236,,Of Swords and Dumplings,Novigrad,Secondary,"Hattori's dumpling kitchen. South Novigrad. NE of Portside Gate, NW of Glory Gate",24,Base Game,N,Unlocks Hattori as a master blacksmith after completion
+241,,Contract: The Beast of Honorton,Velen,Witcher Contract,Notice Board: Crow's Perch or Oreton.,25,Base Game,N,Related to free DLC Where the Cat and Wolf play
+249,,Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 3,Skellige,Treasure Hunt,"Purchase ""Edwin Greloff's Third Map"" from the Midcopse blacksmith or Hierarch Square blacksmith",26,Base Game,N,Superior. Gear requires level 26.
+261,278.0,Skjall's Grave,Skellige,Main,After The Child of the Elder Blood. See note,28,Base Game,N,Must go with Ciri to Skjall's grave
+266,,Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 3,Velen,Treasure Hunt,"Purchase ""Adalbert Kermith's Third Map"" from the trader of Crow's Perch",29,Base Game,N,Superior. Gear requires level 29.
+268,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 3,Kaer Morhen,Treasure Hunt,"Purchase Hieronymus' Notes from blacksmith in Kaer Muire, Skellige",29,Free DLC,N,Superior. Gear requires level 29.
+269,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 4,Kaer Morhen,Treasure Hunt,"Purchase Hieronymus' Notes from armorer in Hierarch Square, Novigrad",29,Free DLC,N,Superior. Gear requires level 29.
+273,,Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 3,Skellige,Treasure Hunt,"Purchase ""Ibrahim Savi's Third Map"" from the armorer at Kaer Trolde Fortress",30,Base Game,N,Superior. Gear requires level 30.
+274,-1.0,"Something Ends, Something Begins",Multiple,Main,"Epilogue, after Tedd Deireadh, The Final Age",30,Base Game,N,The final quest!
+293,,Scavenger Hunt: Bear School Gear Upgrade Diagrams - Part 4,Skellige,Treasure Hunt,"Purchase ""Ibrahim Savi's Fourth Map"" from the armorer at Kaer Trolde Fortress",34,Base Game,N,Mastercrafted. Gear requires level 34.
+294,,Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 4,Skellige,Treasure Hunt,"Purchase ""Adalbert Kermith's Fourth Map"" from blacksmith of Lindenvale",34,Base Game,N,Mastercrafted. Gear requires level 34.
+295,,Scavenger Hunt: Griffin School Gear Upgrade Diagrams - Part 4,Skellige,Treasure Hunt,"Purchase ""Edwin Greloff's Fourth Map"" from Eibhear Hattori after Of Swords and Dumplings",34,Base Game,N,Mastercrafted. Gear requires level 34.
+296,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 5,Novigrad,Treasure Hunt,Purchase Hieronymus' Notes from Hattori in Novigrad,34,Free DLC,N,Mastercrafted. Gear requires level 34.
+297,,Scavenger Hunt: Wolf School Gear Upgrade Diagrams - Part 6,Skellige,Treasure Hunt,"Purchase Hieronymus' Notes from armorer in Kaer Trolde Fortress, Skellige",34,Free DLC,N,Mastercrafted. Gear requires level 34.
